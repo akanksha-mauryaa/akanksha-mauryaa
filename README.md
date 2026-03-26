@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Akanksha Maurya
 
-<!--
-**akanksha-mauryaa/akanksha-mauryaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student (2024–2026)  
+💻 Python Developer | Cloud & Backend Enthusiast  
+☁️ AWS | FastAPI | Docker | CI/CD  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am passionate about building real-world applications using cloud technologies and backend systems. I enjoy solving problems and building scalable solutions.
+
+
+## 🛠 Skills
+- Python, SQL, JavaScript  
+- AWS (EC2, S3, Lambda)  
+- FastAPI, Flask, Streamlit  
+- Docker, GitHub Actions, Git  
+
+
+## 📌 Current Focus
+- 🚀 Building CloudVision (AI-powered AWS Cost Estimator)
+- 🏗 Developing Intelligent Media Processing Factory
+- 📈 Strengthening backend and cloud architecture skills
+
+
+## ⚡ Highlights
+- Built and deploying real-world cloud-based applications  
+- Hands-on with AWS, APIs, and CI/CD pipelines  
+
+
+## 📫 Contact
+Email: akankshamaurya109@gmail.com
